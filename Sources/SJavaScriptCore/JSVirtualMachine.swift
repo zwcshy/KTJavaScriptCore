@@ -1,9 +1,5 @@
 
-#if os(Linux)
-import CJavaScriptCore
-#else
 import JavaScriptCore
-#endif
 
 /**
 @interface
